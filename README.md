@@ -208,8 +208,8 @@ echo -e "hello\nexit" | ./build/ori
 - Improved dangerous command blocking
 - Network access controls
 
-### UI/UX Improvements
-- GTK4 UI plugin implementation
+### UI/UX Improvements (comming soon)
+- GTK4 UI plugin implementationstats
 - Customizable themes and color schemes
 - Autocompletion for commands and plugins
 - Session history and context management
